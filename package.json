@@ -1,0 +1,22 @@
+{
+  "name": "exhibition-ticket-pomodoro",
+  "version": "1.0.0",
+  "description": "展票番茄钟 - 给逛展人用的极简计时工具（多巴胺撞色风，单文件零依赖）",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "start src/index.html",
+    "build": "copy src\\index.html dist\\index.html",
+    "dev": "start src/index.html"
+  },
+  "keywords": [
+    "pomodoro",
+    "timer",
+    "exhibition",
+    "single-file",
+    "zero-dependency"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
